@@ -1,0 +1,1 @@
+ Visual Story:- Top Left: Bar chart showing customer service calls by state.- Bottom Left: Bar chart comparing service calls by churn status.- Top Right: Pie chart showing voice mail plan distribution.- Bottom Right: Line chart comparing account length and area code by churn
